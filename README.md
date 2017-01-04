@@ -15,3 +15,6 @@ CodeIgniter module creation using CLI window
 _You are ready to go... :+1:_
 
 ![alt tag](https://raw.githubusercontent.com/razzul/codeigniter-cli-crud-module/master/codeigniter-cli-crud-module.png)
+
+> **Step 6: Go to your browser & try to access the model**<br>
+[http://localhost/CodeIgniter-cli/index.php/user](http://localhost/CodeIgniter-cli/index.php/user)
