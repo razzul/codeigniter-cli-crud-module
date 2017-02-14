@@ -1,4 +1,6 @@
 # codeigniter-cli-crud-module
+
+[![Join the chat at https://gitter.im/codeigniter-cli-crud-module/Lobby](https://badges.gitter.im/codeigniter-cli-crud-module/Lobby.svg)](https://gitter.im/codeigniter-cli-crud-module/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 CodeIgniter module creation using CLI window
 
 
